@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "useref",
+=======
+  "name": "hooks",
+>>>>>>> 1ea70ad8c53b805ca2f0a34ac076d97a2ad9b7b5
   "private": true,
   "version": "0.0.0",
   "type": "module",
